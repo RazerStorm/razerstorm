@@ -1,11 +1,10 @@
 <p>
  Hey, ik ben Milan en ik ben een ervaren programmeur die zichzelf graag uitdaagt in verschillende programmeertalen. Mijn passie voor programmeren begon vijf jaar geleden toen ik begon met het verkennen van Java en JavaScript. Sindsdien heb ik veel ervaring opgedaan en ben ik bedreven geworden in het schrijven van efficiënte en goed gestructureerde code.
 
-Naast mijn vaardigheden als programmeur, ben ik ook gepassioneerd over het ontwerpen van creatieve en functionele interfaces. Ik volg de opleiding  Grafische Technieken op school waar ik heb geleerd hoe ik websites kan maken die zowel visueel aantrekkelijk als gebruiksvriendelijk zijn.
 </p>
 
 - 🌱 Momenteel ben ik bezig met **Website Structuren**, **java** & **JavaScript**
-- 📫 Discord: RazerStorm#4199
+- 📫 Discord: RazerStorm
 
 <h3 align="left">Programeer Talen:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
